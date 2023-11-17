@@ -1,5 +1,6 @@
 # TextRank
-This code snippet performs several tasks related to text summarization and PageRank algorithm:
+This code snippet performs several tasks related to text summarization and PageRank algorithm.
+Overall, this code demonstrates the usage of text summarization and the PageRank algorithm for ranking sentences based on their importance in a given text.
 ## 1
 It imports the necessary libraries: spacy for natural language processing, pytextrank for text summarization, and numpy for mathematical operations.
 ## 2
